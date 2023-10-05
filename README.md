@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonathanFariasTech
 - 👀 I’m interested in working as a Developer. (People who has jobs, please contact me.)
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any project that helps me to grow my portfolio.
 - 📫 How to reach me jonathanfariastech@gmail.com
 
